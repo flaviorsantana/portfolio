@@ -12,6 +12,4 @@
 
 ### Flavio Santana
 
-### Linkedin: https://www.linkedin.com/in/fl%C3%A1vio-rodrigues-santana/
-
 ```
